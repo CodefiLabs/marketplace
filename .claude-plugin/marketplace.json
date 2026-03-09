@@ -1,0 +1,43 @@
+{
+  "name": "codefilabs",
+  "owner": {
+    "name": "CodefiLabs",
+    "url": "https://github.com/codefilabs"
+  },
+  "metadata": {
+    "description": "AI coding tools from CodefiLabs",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "tailwind-for-agents",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/codefilabs/tailwind-for-agents.git"
+      },
+      "description": "Resolve your Tailwind CSS theme into AI-friendly token maps. MCP server, skill, and hooks.",
+      "version": "0.1.1",
+      "strict": true
+    },
+    {
+      "name": "openrouter-launch",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/codefilabs/openrouter-launch.git"
+      },
+      "description": "Launch AI coding tools with OpenRouter's 400+ model catalog in one command.",
+      "version": "1.0.0",
+      "strict": true
+    },
+    {
+      "name": "tq",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/codefilabs/tq.git"
+      },
+      "description": "Task queue runner that spawns Claude AI tasks as independent tmux sessions.",
+      "version": "1.0.0",
+      "strict": true
+    }
+  ]
+}
