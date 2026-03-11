@@ -16,7 +16,7 @@
         "url": "https://github.com/codefilabs/tailwind-for-agents.git"
       },
       "description": "Resolve your Tailwind CSS theme into AI-friendly token maps. MCP server, skill, and hooks.",
-      "version": "0.1.6",
+      "version": "0.1.7",
       "strict": true
     },
     {
