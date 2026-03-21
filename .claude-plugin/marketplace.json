@@ -38,6 +38,16 @@
       "description": "Task queue runner that spawns Claude AI tasks as independent tmux sessions.",
       "version": "0.1.6",
       "strict": true
+    },
+    {
+      "name": "conductor",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/codefilabs/conductor.git"
+      },
+      "description": "Orchestrate multiple Claude Code tmux sessions via Telegram channel with AI-powered message routing.",
+      "version": "0.1.0",
+      "strict": true
     }
   ]
 }
