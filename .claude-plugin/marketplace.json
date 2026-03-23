@@ -40,13 +40,13 @@
       "strict": true
     },
     {
-      "name": "conductor",
+      "name": "channel-routing",
       "source": {
         "source": "url",
-        "url": "https://github.com/codefilabs/conductor.git"
+        "url": "https://github.com/codefilabs/channel-routing.git"
       },
       "description": "Orchestrate multiple Claude Code tmux sessions via Telegram channel with AI-powered message routing.",
-      "version": "0.1.0",
+      "version": "0.2.0",
       "strict": true
     }
   ]
