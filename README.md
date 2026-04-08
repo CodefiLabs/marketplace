@@ -16,6 +16,7 @@ AI coding tools from [CodefiLabs](https://github.com/codefilabs).
 | [openrouter-launch](https://github.com/codefilabs/openrouter-launch) | Launch AI coding tools with OpenRouter's 400+ model catalog | `/plugin install openrouter-launch@codefilabs` |
 | [tq](https://github.com/codefilabs/tq) | Task queue runner for Claude AI — spawns prompts as tmux sessions | `/plugin install tq@codefilabs` |
 | [channel-routing](https://github.com/codefilabs/channel-routing) | Orchestrate multiple Claude Code tmux sessions via Telegram with AI routing | `/plugin install channel-routing@codefilabs` |
+| [autorun](https://github.com/codefilabs/autorun) | Headless multi-stage code change pipeline — research, plan, implement, and merge autonomously | `/plugin install autorun@codefilabs` |
 
 ## Plugin structure
 
