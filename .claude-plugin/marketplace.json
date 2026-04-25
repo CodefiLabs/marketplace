@@ -56,7 +56,7 @@
         "url": "https://github.com/codefilabs/autorun.git"
       },
       "description": "Headless multi-stage code change pipeline — research, plan, implement, and merge autonomously via tmux and git worktrees.",
-      "version": "0.2.2",
+      "version": "0.2.3",
       "strict": true
     }
   ]
