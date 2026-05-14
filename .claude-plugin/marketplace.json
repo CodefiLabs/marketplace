@@ -30,16 +30,6 @@
       "strict": true
     },
     {
-      "name": "tq",
-      "source": {
-        "source": "url",
-        "url": "https://github.com/codefilabs/tq.git"
-      },
-      "description": "Task queue runner that spawns Claude AI tasks as independent tmux sessions.",
-      "version": "0.1.6",
-      "strict": true
-    },
-    {
       "name": "channel-routing",
       "source": {
         "source": "url",
