@@ -13,8 +13,6 @@ AI coding tools from [CodefiLabs](https://github.com/codefilabs).
 | Plugin | Description | Install |
 |--------|-------------|---------|
 | [tailwind-for-agents](https://github.com/codefilabs/tailwind-for-agents) | Resolve your Tailwind CSS theme into AI-friendly token maps | `/plugin install tailwind-for-agents@codefilabs` |
-| [openrouter-launch](https://github.com/codefilabs/openrouter-launch) | Launch AI coding tools with OpenRouter's 400+ model catalog | `/plugin install openrouter-launch@codefilabs` |
-| [channel-routing](https://github.com/codefilabs/channel-routing) | Orchestrate multiple Claude Code tmux sessions via Telegram with AI routing | `/plugin install channel-routing@codefilabs` |
 | [autorun](https://github.com/codefilabs/autorun) | Headless multi-stage code change pipeline — research, plan, implement, and merge autonomously | `/plugin install autorun@codefilabs` |
 
 ## Plugin structure

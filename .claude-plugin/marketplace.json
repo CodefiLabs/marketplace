@@ -20,26 +20,6 @@
       "strict": true
     },
     {
-      "name": "openrouter-launch",
-      "source": {
-        "source": "url",
-        "url": "https://github.com/codefilabs/openrouter-launch.git"
-      },
-      "description": "Launch AI coding tools with OpenRouter's 400+ model catalog in one command.",
-      "version": "1.0.0",
-      "strict": true
-    },
-    {
-      "name": "channel-routing",
-      "source": {
-        "source": "url",
-        "url": "https://github.com/codefilabs/channel-routing.git"
-      },
-      "description": "Orchestrate multiple Claude Code tmux sessions via Telegram channel with AI-powered message routing.",
-      "version": "0.2.1",
-      "strict": true
-    },
-    {
       "name": "autorun",
       "source": {
         "source": "url",
